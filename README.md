@@ -1,5 +1,5 @@
-# Olá, eu sou Dantaas!
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
+# Olá, eu sou Dantas!
+Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 **Estudante de Engenharia de Software | Bacharelado |
 Preparando-se para o mercado de tecnologia**
 ---
