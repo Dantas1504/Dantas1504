@@ -4,7 +4,7 @@ Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
 Preparando-se para o mercado de tecnologia**
 ---
 ## Sobre mim
-- Atualmente cursando **Técnico em Desenvolvimento de Sistemas** e **Engenharia de Software**
+- Atualmente cursando **Engenharia de Software**
 - Sempre aprendendo novas tecnologias e boas práticas de programação
 - Interesse especial em **projetos web** e **desenvolvimento front-end**
 ---
